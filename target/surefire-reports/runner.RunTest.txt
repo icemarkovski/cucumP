@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runner.RunTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 186.588 s <<< FAILURE! - in runner.RunTest
+Login with valid credentials(Login function)  Time elapsed: 17.046 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with valid email and invalid password(Login function)  Time elapsed: 14.116 s  <<< FAILURE!
+java.lang.AssertionError
+
